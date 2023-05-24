@@ -1,0 +1,218 @@
+[
+  {
+    "directory": "C:\\Users\\ryrid\\Dropbox\\UQ2\\Pain\\code\\ahrs_validation_2021\\codegen\\mex",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2021b\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"C:\\Users\\ryrid\\Dropbox\\UQ2\\Pain\\code\\ahrs_validation_2021\\codegen\\mex\" -I \"C:\\Users\\ryrid\\Dropbox\\UQ2\\Pain\\code\\ahrs_validation_2021\" -I \"C:\\Users\\ryrid\\Dropbox\\UQ2\\Pain\\code\\ahrs_validation_2021\\codegen\\mex\\interface\" -I \"C:\\Program Files\\MATLAB\\R2021b\\extern\\include\" -I \".\" -DMODEL=estimateOrientation_Fast2_mex -D__USE_MINGW_ANSI_STDIO=1   estimateOrientation_Fast2_data.c -o build/win64/estimateOrientation_Fast2_data.o",
+    "file": "estimateOrientation_Fast2_data.c",
+    "output": "build/win64/estimateOrientation_Fast2_data.o"
+  },
+  {
+    "directory": "C:\\Users\\ryrid\\Dropbox\\UQ2\\Pain\\code\\ahrs_validation_2021\\codegen\\mex",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2021b\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"C:\\Users\\ryrid\\Dropbox\\UQ2\\Pain\\code\\ahrs_validation_2021\\codegen\\mex\" -I \"C:\\Users\\ryrid\\Dropbox\\UQ2\\Pain\\code\\ahrs_validation_2021\" -I \"C:\\Users\\ryrid\\Dropbox\\UQ2\\Pain\\code\\ahrs_validation_2021\\codegen\\mex\\interface\" -I \"C:\\Program Files\\MATLAB\\R2021b\\extern\\include\" -I \".\" -DMODEL=estimateOrientation_Fast2_mex -D__USE_MINGW_ANSI_STDIO=1   rt_nonfinite.c -o build/win64/rt_nonfinite.o",
+    "file": "rt_nonfinite.c",
+    "output": "build/win64/rt_nonfinite.o"
+  },
+  {
+    "directory": "C:\\Users\\ryrid\\Dropbox\\UQ2\\Pain\\code\\ahrs_validation_2021\\codegen\\mex",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2021b\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"C:\\Users\\ryrid\\Dropbox\\UQ2\\Pain\\code\\ahrs_validation_2021\\codegen\\mex\" -I \"C:\\Users\\ryrid\\Dropbox\\UQ2\\Pain\\code\\ahrs_validation_2021\" -I \"C:\\Users\\ryrid\\Dropbox\\UQ2\\Pain\\code\\ahrs_validation_2021\\codegen\\mex\\interface\" -I \"C:\\Program Files\\MATLAB\\R2021b\\extern\\include\" -I \".\" -DMODEL=estimateOrientation_Fast2_mex -D__USE_MINGW_ANSI_STDIO=1   estimateOrientation_Fast2_initialize.c -o build/win64/estimateOrientation_Fast2_initialize.o",
+    "file": "estimateOrientation_Fast2_initialize.c",
+    "output": "build/win64/estimateOrientation_Fast2_initialize.o"
+  },
+  {
+    "directory": "C:\\Users\\ryrid\\Dropbox\\UQ2\\Pain\\code\\ahrs_validation_2021\\codegen\\mex",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2021b\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"C:\\Users\\ryrid\\Dropbox\\UQ2\\Pain\\code\\ahrs_validation_2021\\codegen\\mex\" -I \"C:\\Users\\ryrid\\Dropbox\\UQ2\\Pain\\code\\ahrs_validation_2021\" -I \"C:\\Users\\ryrid\\Dropbox\\UQ2\\Pain\\code\\ahrs_validation_2021\\codegen\\mex\\interface\" -I \"C:\\Program Files\\MATLAB\\R2021b\\extern\\include\" -I \".\" -DMODEL=estimateOrientation_Fast2_mex -D__USE_MINGW_ANSI_STDIO=1   estimateOrientation_Fast2_terminate.c -o build/win64/estimateOrientation_Fast2_terminate.o",
+    "file": "estimateOrientation_Fast2_terminate.c",
+    "output": "build/win64/estimateOrientation_Fast2_terminate.o"
+  },
+  {
+    "directory": "C:\\Users\\ryrid\\Dropbox\\UQ2\\Pain\\code\\ahrs_validation_2021\\codegen\\mex",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2021b\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"C:\\Users\\ryrid\\Dropbox\\UQ2\\Pain\\code\\ahrs_validation_2021\\codegen\\mex\" -I \"C:\\Users\\ryrid\\Dropbox\\UQ2\\Pain\\code\\ahrs_validation_2021\" -I \"C:\\Users\\ryrid\\Dropbox\\UQ2\\Pain\\code\\ahrs_validation_2021\\codegen\\mex\\interface\" -I \"C:\\Program Files\\MATLAB\\R2021b\\extern\\include\" -I \".\" -DMODEL=estimateOrientation_Fast2_mex -D__USE_MINGW_ANSI_STDIO=1   estimateOrientation_Fast2.c -o build/win64/estimateOrientation_Fast2.o",
+    "file": "estimateOrientation_Fast2.c",
+    "output": "build/win64/estimateOrientation_Fast2.o"
+  },
+  {
+    "directory": "C:\\Users\\ryrid\\Dropbox\\UQ2\\Pain\\code\\ahrs_validation_2021\\codegen\\mex",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2021b\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"C:\\Users\\ryrid\\Dropbox\\UQ2\\Pain\\code\\ahrs_validation_2021\\codegen\\mex\" -I \"C:\\Users\\ryrid\\Dropbox\\UQ2\\Pain\\code\\ahrs_validation_2021\" -I \"C:\\Users\\ryrid\\Dropbox\\UQ2\\Pain\\code\\ahrs_validation_2021\\codegen\\mex\\interface\" -I \"C:\\Program Files\\MATLAB\\R2021b\\extern\\include\" -I \".\" -DMODEL=estimateOrientation_Fast2_mex -D__USE_MINGW_ANSI_STDIO=1   strcmp.c -o build/win64/strcmp.o",
+    "file": "strcmp.c",
+    "output": "build/win64/strcmp.o"
+  },
+  {
+    "directory": "C:\\Users\\ryrid\\Dropbox\\UQ2\\Pain\\code\\ahrs_validation_2021\\codegen\\mex",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2021b\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"C:\\Users\\ryrid\\Dropbox\\UQ2\\Pain\\code\\ahrs_validation_2021\\codegen\\mex\" -I \"C:\\Users\\ryrid\\Dropbox\\UQ2\\Pain\\code\\ahrs_validation_2021\" -I \"C:\\Users\\ryrid\\Dropbox\\UQ2\\Pain\\code\\ahrs_validation_2021\\codegen\\mex\\interface\" -I \"C:\\Program Files\\MATLAB\\R2021b\\extern\\include\" -I \".\" -DMODEL=estimateOrientation_Fast2_mex -D__USE_MINGW_ANSI_STDIO=1   RiddickAHRS_update_higherOrder.c -o build/win64/RiddickAHRS_update_higherOrder.o",
+    "file": "RiddickAHRS_update_higherOrder.c",
+    "output": "build/win64/RiddickAHRS_update_higherOrder.o"
+  },
+  {
+    "directory": "C:\\Users\\ryrid\\Dropbox\\UQ2\\Pain\\code\\ahrs_validation_2021\\codegen\\mex",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2021b\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"C:\\Users\\ryrid\\Dropbox\\UQ2\\Pain\\code\\ahrs_validation_2021\\codegen\\mex\" -I \"C:\\Users\\ryrid\\Dropbox\\UQ2\\Pain\\code\\ahrs_validation_2021\" -I \"C:\\Users\\ryrid\\Dropbox\\UQ2\\Pain\\code\\ahrs_validation_2021\\codegen\\mex\\interface\" -I \"C:\\Program Files\\MATLAB\\R2021b\\extern\\include\" -I \".\" -DMODEL=estimateOrientation_Fast2_mex -D__USE_MINGW_ANSI_STDIO=1   norm.c -o build/win64/norm.o",
+    "file": "norm.c",
+    "output": "build/win64/norm.o"
+  },
+  {
+    "directory": "C:\\Users\\ryrid\\Dropbox\\UQ2\\Pain\\code\\ahrs_validation_2021\\codegen\\mex",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2021b\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"C:\\Users\\ryrid\\Dropbox\\UQ2\\Pain\\code\\ahrs_validation_2021\\codegen\\mex\" -I \"C:\\Users\\ryrid\\Dropbox\\UQ2\\Pain\\code\\ahrs_validation_2021\" -I \"C:\\Users\\ryrid\\Dropbox\\UQ2\\Pain\\code\\ahrs_validation_2021\\codegen\\mex\\interface\" -I \"C:\\Program Files\\MATLAB\\R2021b\\extern\\include\" -I \".\" -DMODEL=estimateOrientation_Fast2_mex -D__USE_MINGW_ANSI_STDIO=1   WilsonAHRS_update.c -o build/win64/WilsonAHRS_update.o",
+    "file": "WilsonAHRS_update.c",
+    "output": "build/win64/WilsonAHRS_update.o"
+  },
+  {
+    "directory": "C:\\Users\\ryrid\\Dropbox\\UQ2\\Pain\\code\\ahrs_validation_2021\\codegen\\mex",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2021b\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"C:\\Users\\ryrid\\Dropbox\\UQ2\\Pain\\code\\ahrs_validation_2021\\codegen\\mex\" -I \"C:\\Users\\ryrid\\Dropbox\\UQ2\\Pain\\code\\ahrs_validation_2021\" -I \"C:\\Users\\ryrid\\Dropbox\\UQ2\\Pain\\code\\ahrs_validation_2021\\codegen\\mex\\interface\" -I \"C:\\Program Files\\MATLAB\\R2021b\\extern\\include\" -I \".\" -DMODEL=estimateOrientation_Fast2_mex -D__USE_MINGW_ANSI_STDIO=1   gdfPredict.c -o build/win64/gdfPredict.o",
+    "file": "gdfPredict.c",
+    "output": "build/win64/gdfPredict.o"
+  },
+  {
+    "directory": "C:\\Users\\ryrid\\Dropbox\\UQ2\\Pain\\code\\ahrs_validation_2021\\codegen\\mex",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2021b\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"C:\\Users\\ryrid\\Dropbox\\UQ2\\Pain\\code\\ahrs_validation_2021\\codegen\\mex\" -I \"C:\\Users\\ryrid\\Dropbox\\UQ2\\Pain\\code\\ahrs_validation_2021\" -I \"C:\\Users\\ryrid\\Dropbox\\UQ2\\Pain\\code\\ahrs_validation_2021\\codegen\\mex\\interface\" -I \"C:\\Program Files\\MATLAB\\R2021b\\extern\\include\" -I \".\" -DMODEL=estimateOrientation_Fast2_mex -D__USE_MINGW_ANSI_STDIO=1   quaternProd.c -o build/win64/quaternProd.o",
+    "file": "quaternProd.c",
+    "output": "build/win64/quaternProd.o"
+  },
+  {
+    "directory": "C:\\Users\\ryrid\\Dropbox\\UQ2\\Pain\\code\\ahrs_validation_2021\\codegen\\mex",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2021b\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"C:\\Users\\ryrid\\Dropbox\\UQ2\\Pain\\code\\ahrs_validation_2021\\codegen\\mex\" -I \"C:\\Users\\ryrid\\Dropbox\\UQ2\\Pain\\code\\ahrs_validation_2021\" -I \"C:\\Users\\ryrid\\Dropbox\\UQ2\\Pain\\code\\ahrs_validation_2021\\codegen\\mex\\interface\" -I \"C:\\Program Files\\MATLAB\\R2021b\\extern\\include\" -I \".\" -DMODEL=estimateOrientation_Fast2_mex -D__USE_MINGW_ANSI_STDIO=1   MadgwickAHRS3_update.c -o build/win64/MadgwickAHRS3_update.o",
+    "file": "MadgwickAHRS3_update.c",
+    "output": "build/win64/MadgwickAHRS3_update.o"
+  },
+  {
+    "directory": "C:\\Users\\ryrid\\Dropbox\\UQ2\\Pain\\code\\ahrs_validation_2021\\codegen\\mex",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2021b\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"C:\\Users\\ryrid\\Dropbox\\UQ2\\Pain\\code\\ahrs_validation_2021\\codegen\\mex\" -I \"C:\\Users\\ryrid\\Dropbox\\UQ2\\Pain\\code\\ahrs_validation_2021\" -I \"C:\\Users\\ryrid\\Dropbox\\UQ2\\Pain\\code\\ahrs_validation_2021\\codegen\\mex\\interface\" -I \"C:\\Program Files\\MATLAB\\R2021b\\extern\\include\" -I \".\" -DMODEL=estimateOrientation_Fast2_mex -D__USE_MINGW_ANSI_STDIO=1   JustaAHRS_update.c -o build/win64/JustaAHRS_update.o",
+    "file": "JustaAHRS_update.c",
+    "output": "build/win64/JustaAHRS_update.o"
+  },
+  {
+    "directory": "C:\\Users\\ryrid\\Dropbox\\UQ2\\Pain\\code\\ahrs_validation_2021\\codegen\\mex",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2021b\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"C:\\Users\\ryrid\\Dropbox\\UQ2\\Pain\\code\\ahrs_validation_2021\\codegen\\mex\" -I \"C:\\Users\\ryrid\\Dropbox\\UQ2\\Pain\\code\\ahrs_validation_2021\" -I \"C:\\Users\\ryrid\\Dropbox\\UQ2\\Pain\\code\\ahrs_validation_2021\\codegen\\mex\\interface\" -I \"C:\\Program Files\\MATLAB\\R2021b\\extern\\include\" -I \".\" -DMODEL=estimateOrientation_Fast2_mex -D__USE_MINGW_ANSI_STDIO=1   FastKF_update.c -o build/win64/FastKF_update.o",
+    "file": "FastKF_update.c",
+    "output": "build/win64/FastKF_update.o"
+  },
+  {
+    "directory": "C:\\Users\\ryrid\\Dropbox\\UQ2\\Pain\\code\\ahrs_validation_2021\\codegen\\mex",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2021b\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"C:\\Users\\ryrid\\Dropbox\\UQ2\\Pain\\code\\ahrs_validation_2021\\codegen\\mex\" -I \"C:\\Users\\ryrid\\Dropbox\\UQ2\\Pain\\code\\ahrs_validation_2021\" -I \"C:\\Users\\ryrid\\Dropbox\\UQ2\\Pain\\code\\ahrs_validation_2021\\codegen\\mex\\interface\" -I \"C:\\Program Files\\MATLAB\\R2021b\\extern\\include\" -I \".\" -DMODEL=estimateOrientation_Fast2_mex -D__USE_MINGW_ANSI_STDIO=1   eye.c -o build/win64/eye.o",
+    "file": "eye.c",
+    "output": "build/win64/eye.o"
+  },
+  {
+    "directory": "C:\\Users\\ryrid\\Dropbox\\UQ2\\Pain\\code\\ahrs_validation_2021\\codegen\\mex",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2021b\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"C:\\Users\\ryrid\\Dropbox\\UQ2\\Pain\\code\\ahrs_validation_2021\\codegen\\mex\" -I \"C:\\Users\\ryrid\\Dropbox\\UQ2\\Pain\\code\\ahrs_validation_2021\" -I \"C:\\Users\\ryrid\\Dropbox\\UQ2\\Pain\\code\\ahrs_validation_2021\\codegen\\mex\\interface\" -I \"C:\\Program Files\\MATLAB\\R2021b\\extern\\include\" -I \".\" -DMODEL=estimateOrientation_Fast2_mex -D__USE_MINGW_ANSI_STDIO=1   eml_mtimes_helper.c -o build/win64/eml_mtimes_helper.o",
+    "file": "eml_mtimes_helper.c",
+    "output": "build/win64/eml_mtimes_helper.o"
+  },
+  {
+    "directory": "C:\\Users\\ryrid\\Dropbox\\UQ2\\Pain\\code\\ahrs_validation_2021\\codegen\\mex",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2021b\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"C:\\Users\\ryrid\\Dropbox\\UQ2\\Pain\\code\\ahrs_validation_2021\\codegen\\mex\" -I \"C:\\Users\\ryrid\\Dropbox\\UQ2\\Pain\\code\\ahrs_validation_2021\" -I \"C:\\Users\\ryrid\\Dropbox\\UQ2\\Pain\\code\\ahrs_validation_2021\\codegen\\mex\\interface\" -I \"C:\\Program Files\\MATLAB\\R2021b\\extern\\include\" -I \".\" -DMODEL=estimateOrientation_Fast2_mex -D__USE_MINGW_ANSI_STDIO=1   mtimes.c -o build/win64/mtimes.o",
+    "file": "mtimes.c",
+    "output": "build/win64/mtimes.o"
+  },
+  {
+    "directory": "C:\\Users\\ryrid\\Dropbox\\UQ2\\Pain\\code\\ahrs_validation_2021\\codegen\\mex",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2021b\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"C:\\Users\\ryrid\\Dropbox\\UQ2\\Pain\\code\\ahrs_validation_2021\\codegen\\mex\" -I \"C:\\Users\\ryrid\\Dropbox\\UQ2\\Pain\\code\\ahrs_validation_2021\" -I \"C:\\Users\\ryrid\\Dropbox\\UQ2\\Pain\\code\\ahrs_validation_2021\\codegen\\mex\\interface\" -I \"C:\\Program Files\\MATLAB\\R2021b\\extern\\include\" -I \".\" -DMODEL=estimateOrientation_Fast2_mex -D__USE_MINGW_ANSI_STDIO=1   warning.c -o build/win64/warning.o",
+    "file": "warning.c",
+    "output": "build/win64/warning.o"
+  },
+  {
+    "directory": "C:\\Users\\ryrid\\Dropbox\\UQ2\\Pain\\code\\ahrs_validation_2021\\codegen\\mex",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2021b\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"C:\\Users\\ryrid\\Dropbox\\UQ2\\Pain\\code\\ahrs_validation_2021\\codegen\\mex\" -I \"C:\\Users\\ryrid\\Dropbox\\UQ2\\Pain\\code\\ahrs_validation_2021\" -I \"C:\\Users\\ryrid\\Dropbox\\UQ2\\Pain\\code\\ahrs_validation_2021\\codegen\\mex\\interface\" -I \"C:\\Program Files\\MATLAB\\R2021b\\extern\\include\" -I \".\" -DMODEL=estimateOrientation_Fast2_mex -D__USE_MINGW_ANSI_STDIO=1   KF_update.c -o build/win64/KF_update.o",
+    "file": "KF_update.c",
+    "output": "build/win64/KF_update.o"
+  },
+  {
+    "directory": "C:\\Users\\ryrid\\Dropbox\\UQ2\\Pain\\code\\ahrs_validation_2021\\codegen\\mex",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2021b\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"C:\\Users\\ryrid\\Dropbox\\UQ2\\Pain\\code\\ahrs_validation_2021\\codegen\\mex\" -I \"C:\\Users\\ryrid\\Dropbox\\UQ2\\Pain\\code\\ahrs_validation_2021\" -I \"C:\\Users\\ryrid\\Dropbox\\UQ2\\Pain\\code\\ahrs_validation_2021\\codegen\\mex\\interface\" -I \"C:\\Program Files\\MATLAB\\R2021b\\extern\\include\" -I \".\" -DMODEL=estimateOrientation_Fast2_mex -D__USE_MINGW_ANSI_STDIO=1   blkdiag.c -o build/win64/blkdiag.o",
+    "file": "blkdiag.c",
+    "output": "build/win64/blkdiag.o"
+  },
+  {
+    "directory": "C:\\Users\\ryrid\\Dropbox\\UQ2\\Pain\\code\\ahrs_validation_2021\\codegen\\mex",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2021b\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"C:\\Users\\ryrid\\Dropbox\\UQ2\\Pain\\code\\ahrs_validation_2021\\codegen\\mex\" -I \"C:\\Users\\ryrid\\Dropbox\\UQ2\\Pain\\code\\ahrs_validation_2021\" -I \"C:\\Users\\ryrid\\Dropbox\\UQ2\\Pain\\code\\ahrs_validation_2021\\codegen\\mex\\interface\" -I \"C:\\Program Files\\MATLAB\\R2021b\\extern\\include\" -I \".\" -DMODEL=estimateOrientation_Fast2_mex -D__USE_MINGW_ANSI_STDIO=1   KF2_update.c -o build/win64/KF2_update.o",
+    "file": "KF2_update.c",
+    "output": "build/win64/KF2_update.o"
+  },
+  {
+    "directory": "C:\\Users\\ryrid\\Dropbox\\UQ2\\Pain\\code\\ahrs_validation_2021\\codegen\\mex",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2021b\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"C:\\Users\\ryrid\\Dropbox\\UQ2\\Pain\\code\\ahrs_validation_2021\\codegen\\mex\" -I \"C:\\Users\\ryrid\\Dropbox\\UQ2\\Pain\\code\\ahrs_validation_2021\" -I \"C:\\Users\\ryrid\\Dropbox\\UQ2\\Pain\\code\\ahrs_validation_2021\\codegen\\mex\\interface\" -I \"C:\\Program Files\\MATLAB\\R2021b\\extern\\include\" -I \".\" -DMODEL=estimateOrientation_Fast2_mex -D__USE_MINGW_ANSI_STDIO=1   ticcKF_update.c -o build/win64/ticcKF_update.o",
+    "file": "ticcKF_update.c",
+    "output": "build/win64/ticcKF_update.o"
+  },
+  {
+    "directory": "C:\\Users\\ryrid\\Dropbox\\UQ2\\Pain\\code\\ahrs_validation_2021\\codegen\\mex",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2021b\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"C:\\Users\\ryrid\\Dropbox\\UQ2\\Pain\\code\\ahrs_validation_2021\\codegen\\mex\" -I \"C:\\Users\\ryrid\\Dropbox\\UQ2\\Pain\\code\\ahrs_validation_2021\" -I \"C:\\Users\\ryrid\\Dropbox\\UQ2\\Pain\\code\\ahrs_validation_2021\\codegen\\mex\\interface\" -I \"C:\\Program Files\\MATLAB\\R2021b\\extern\\include\" -I \".\" -DMODEL=estimateOrientation_Fast2_mex -D__USE_MINGW_ANSI_STDIO=1   ticcKFexp_update.c -o build/win64/ticcKFexp_update.o",
+    "file": "ticcKFexp_update.c",
+    "output": "build/win64/ticcKFexp_update.o"
+  },
+  {
+    "directory": "C:\\Users\\ryrid\\Dropbox\\UQ2\\Pain\\code\\ahrs_validation_2021\\codegen\\mex",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2021b\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"C:\\Users\\ryrid\\Dropbox\\UQ2\\Pain\\code\\ahrs_validation_2021\\codegen\\mex\" -I \"C:\\Users\\ryrid\\Dropbox\\UQ2\\Pain\\code\\ahrs_validation_2021\" -I \"C:\\Users\\ryrid\\Dropbox\\UQ2\\Pain\\code\\ahrs_validation_2021\\codegen\\mex\\interface\" -I \"C:\\Program Files\\MATLAB\\R2021b\\extern\\include\" -I \".\" -DMODEL=estimateOrientation_Fast2_mex -D__USE_MINGW_ANSI_STDIO=1   eKF_update.c -o build/win64/eKF_update.o",
+    "file": "eKF_update.c",
+    "output": "build/win64/eKF_update.o"
+  },
+  {
+    "directory": "C:\\Users\\ryrid\\Dropbox\\UQ2\\Pain\\code\\ahrs_validation_2021\\codegen\\mex",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2021b\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"C:\\Users\\ryrid\\Dropbox\\UQ2\\Pain\\code\\ahrs_validation_2021\\codegen\\mex\" -I \"C:\\Users\\ryrid\\Dropbox\\UQ2\\Pain\\code\\ahrs_validation_2021\" -I \"C:\\Users\\ryrid\\Dropbox\\UQ2\\Pain\\code\\ahrs_validation_2021\\codegen\\mex\\interface\" -I \"C:\\Program Files\\MATLAB\\R2021b\\extern\\include\" -I \".\" -DMODEL=estimateOrientation_Fast2_mex -D__USE_MINGW_ANSI_STDIO=1   eKF2_update.c -o build/win64/eKF2_update.o",
+    "file": "eKF2_update.c",
+    "output": "build/win64/eKF2_update.o"
+  },
+  {
+    "directory": "C:\\Users\\ryrid\\Dropbox\\UQ2\\Pain\\code\\ahrs_validation_2021\\codegen\\mex",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2021b\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"C:\\Users\\ryrid\\Dropbox\\UQ2\\Pain\\code\\ahrs_validation_2021\\codegen\\mex\" -I \"C:\\Users\\ryrid\\Dropbox\\UQ2\\Pain\\code\\ahrs_validation_2021\" -I \"C:\\Users\\ryrid\\Dropbox\\UQ2\\Pain\\code\\ahrs_validation_2021\\codegen\\mex\\interface\" -I \"C:\\Program Files\\MATLAB\\R2021b\\extern\\include\" -I \".\" -DMODEL=estimateOrientation_Fast2_mex -D__USE_MINGW_ANSI_STDIO=1   esKF_update.c -o build/win64/esKF_update.o",
+    "file": "esKF_update.c",
+    "output": "build/win64/esKF_update.o"
+  },
+  {
+    "directory": "C:\\Users\\ryrid\\Dropbox\\UQ2\\Pain\\code\\ahrs_validation_2021\\codegen\\mex",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2021b\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"C:\\Users\\ryrid\\Dropbox\\UQ2\\Pain\\code\\ahrs_validation_2021\\codegen\\mex\" -I \"C:\\Users\\ryrid\\Dropbox\\UQ2\\Pain\\code\\ahrs_validation_2021\" -I \"C:\\Users\\ryrid\\Dropbox\\UQ2\\Pain\\code\\ahrs_validation_2021\\codegen\\mex\\interface\" -I \"C:\\Program Files\\MATLAB\\R2021b\\extern\\include\" -I \".\" -DMODEL=estimateOrientation_Fast2_mex -D__USE_MINGW_ANSI_STDIO=1   esKF2_update.c -o build/win64/esKF2_update.o",
+    "file": "esKF2_update.c",
+    "output": "build/win64/esKF2_update.o"
+  },
+  {
+    "directory": "C:\\Users\\ryrid\\Dropbox\\UQ2\\Pain\\code\\ahrs_validation_2021\\codegen\\mex",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2021b\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"C:\\Users\\ryrid\\Dropbox\\UQ2\\Pain\\code\\ahrs_validation_2021\\codegen\\mex\" -I \"C:\\Users\\ryrid\\Dropbox\\UQ2\\Pain\\code\\ahrs_validation_2021\" -I \"C:\\Users\\ryrid\\Dropbox\\UQ2\\Pain\\code\\ahrs_validation_2021\\codegen\\mex\\interface\" -I \"C:\\Program Files\\MATLAB\\R2021b\\extern\\include\" -I \".\" -DMODEL=estimateOrientation_Fast2_mex -D__USE_MINGW_ANSI_STDIO=1   interface/_coder_estimateOrientation_Fast2_api.c -o build/win64/_coder_estimateOrientation_Fast2_api.o",
+    "file": "interface/_coder_estimateOrientation_Fast2_api.c",
+    "output": "build/win64/_coder_estimateOrientation_Fast2_api.o"
+  },
+  {
+    "directory": "C:\\Users\\ryrid\\Dropbox\\UQ2\\Pain\\code\\ahrs_validation_2021\\codegen\\mex",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2021b\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"C:\\Users\\ryrid\\Dropbox\\UQ2\\Pain\\code\\ahrs_validation_2021\\codegen\\mex\" -I \"C:\\Users\\ryrid\\Dropbox\\UQ2\\Pain\\code\\ahrs_validation_2021\" -I \"C:\\Users\\ryrid\\Dropbox\\UQ2\\Pain\\code\\ahrs_validation_2021\\codegen\\mex\\interface\" -I \"C:\\Program Files\\MATLAB\\R2021b\\extern\\include\" -I \".\" -DMODEL=estimateOrientation_Fast2_mex -D__USE_MINGW_ANSI_STDIO=1   interface/_coder_estimateOrientation_Fast2_mex.c -o build/win64/_coder_estimateOrientation_Fast2_mex.o",
+    "file": "interface/_coder_estimateOrientation_Fast2_mex.c",
+    "output": "build/win64/_coder_estimateOrientation_Fast2_mex.o"
+  },
+  {
+    "directory": "C:\\Users\\ryrid\\Dropbox\\UQ2\\Pain\\code\\ahrs_validation_2021\\codegen\\mex",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2021b\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"C:\\Users\\ryrid\\Dropbox\\UQ2\\Pain\\code\\ahrs_validation_2021\\codegen\\mex\" -I \"C:\\Users\\ryrid\\Dropbox\\UQ2\\Pain\\code\\ahrs_validation_2021\" -I \"C:\\Users\\ryrid\\Dropbox\\UQ2\\Pain\\code\\ahrs_validation_2021\\codegen\\mex\\interface\" -I \"C:\\Program Files\\MATLAB\\R2021b\\extern\\include\" -I \".\" -DMODEL=estimateOrientation_Fast2_mex -D__USE_MINGW_ANSI_STDIO=1   sumMatrixIncludeNaN.c -o build/win64/sumMatrixIncludeNaN.o",
+    "file": "sumMatrixIncludeNaN.c",
+    "output": "build/win64/sumMatrixIncludeNaN.o"
+  },
+  {
+    "directory": "C:\\Users\\ryrid\\Dropbox\\UQ2\\Pain\\code\\ahrs_validation_2021\\codegen\\mex",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2021b\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"C:\\Users\\ryrid\\Dropbox\\UQ2\\Pain\\code\\ahrs_validation_2021\\codegen\\mex\" -I \"C:\\Users\\ryrid\\Dropbox\\UQ2\\Pain\\code\\ahrs_validation_2021\" -I \"C:\\Users\\ryrid\\Dropbox\\UQ2\\Pain\\code\\ahrs_validation_2021\\codegen\\mex\\interface\" -I \"C:\\Program Files\\MATLAB\\R2021b\\extern\\include\" -I \".\" -DMODEL=estimateOrientation_Fast2_mex -D__USE_MINGW_ANSI_STDIO=1   eml_int_forloop_overflow_check.c -o build/win64/eml_int_forloop_overflow_check.o",
+    "file": "eml_int_forloop_overflow_check.c",
+    "output": "build/win64/eml_int_forloop_overflow_check.o"
+  },
+  {
+    "directory": "C:\\Users\\ryrid\\Dropbox\\UQ2\\Pain\\code\\ahrs_validation_2021\\codegen\\mex",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2021b\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"C:\\Users\\ryrid\\Dropbox\\UQ2\\Pain\\code\\ahrs_validation_2021\\codegen\\mex\" -I \"C:\\Users\\ryrid\\Dropbox\\UQ2\\Pain\\code\\ahrs_validation_2021\" -I \"C:\\Users\\ryrid\\Dropbox\\UQ2\\Pain\\code\\ahrs_validation_2021\\codegen\\mex\\interface\" -I \"C:\\Program Files\\MATLAB\\R2021b\\extern\\include\" -I \".\" -DMODEL=estimateOrientation_Fast2_mex -D__USE_MINGW_ANSI_STDIO=1   mrdivide_helper.c -o build/win64/mrdivide_helper.o",
+    "file": "mrdivide_helper.c",
+    "output": "build/win64/mrdivide_helper.o"
+  },
+  {
+    "directory": "C:\\Users\\ryrid\\Dropbox\\UQ2\\Pain\\code\\ahrs_validation_2021\\codegen\\mex",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2021b\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"C:\\Users\\ryrid\\Dropbox\\UQ2\\Pain\\code\\ahrs_validation_2021\\codegen\\mex\" -I \"C:\\Users\\ryrid\\Dropbox\\UQ2\\Pain\\code\\ahrs_validation_2021\" -I \"C:\\Users\\ryrid\\Dropbox\\UQ2\\Pain\\code\\ahrs_validation_2021\\codegen\\mex\\interface\" -I \"C:\\Program Files\\MATLAB\\R2021b\\extern\\include\" -I \".\" -DMODEL=estimateOrientation_Fast2_mex -D__USE_MINGW_ANSI_STDIO=1   xgetrf.c -o build/win64/xgetrf.o",
+    "file": "xgetrf.c",
+    "output": "build/win64/xgetrf.o"
+  },
+  {
+    "directory": "C:\\Users\\ryrid\\Dropbox\\UQ2\\Pain\\code\\ahrs_validation_2021\\codegen\\mex",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2021b\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"C:\\Users\\ryrid\\Dropbox\\UQ2\\Pain\\code\\ahrs_validation_2021\\codegen\\mex\" -I \"C:\\Users\\ryrid\\Dropbox\\UQ2\\Pain\\code\\ahrs_validation_2021\" -I \"C:\\Users\\ryrid\\Dropbox\\UQ2\\Pain\\code\\ahrs_validation_2021\\codegen\\mex\\interface\" -I \"C:\\Program Files\\MATLAB\\R2021b\\extern\\include\" -I \".\" -DMODEL=estimateOrientation_Fast2_mex -D__USE_MINGW_ANSI_STDIO=1   estimateOrientation_Fast2_emxutil.c -o build/win64/estimateOrientation_Fast2_emxutil.o",
+    "file": "estimateOrientation_Fast2_emxutil.c",
+    "output": "build/win64/estimateOrientation_Fast2_emxutil.o"
+  },
+  {
+    "directory": "C:\\Users\\ryrid\\Dropbox\\UQ2\\Pain\\code\\ahrs_validation_2021\\codegen\\mex",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2021b\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"C:\\Users\\ryrid\\Dropbox\\UQ2\\Pain\\code\\ahrs_validation_2021\\codegen\\mex\" -I \"C:\\Users\\ryrid\\Dropbox\\UQ2\\Pain\\code\\ahrs_validation_2021\" -I \"C:\\Users\\ryrid\\Dropbox\\UQ2\\Pain\\code\\ahrs_validation_2021\\codegen\\mex\\interface\" -I \"C:\\Program Files\\MATLAB\\R2021b\\extern\\include\" -I \".\" -DMODEL=estimateOrientation_Fast2_mex -D__USE_MINGW_ANSI_STDIO=1   interface/_coder_estimateOrientation_Fast2_info.c -o build/win64/_coder_estimateOrientation_Fast2_info.o",
+    "file": "interface/_coder_estimateOrientation_Fast2_info.c",
+    "output": "build/win64/_coder_estimateOrientation_Fast2_info.o"
+  },
+  {
+    "directory": "C:\\Users\\ryrid\\Dropbox\\UQ2\\Pain\\code\\ahrs_validation_2021\\codegen\\mex",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2021b\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"C:\\Users\\ryrid\\Dropbox\\UQ2\\Pain\\code\\ahrs_validation_2021\\codegen\\mex\" -I \"C:\\Users\\ryrid\\Dropbox\\UQ2\\Pain\\code\\ahrs_validation_2021\" -I \"C:\\Users\\ryrid\\Dropbox\\UQ2\\Pain\\code\\ahrs_validation_2021\\codegen\\mex\\interface\" -I \"C:\\Program Files\\MATLAB\\R2021b\\extern\\include\" -I \".\" -DMODEL=estimateOrientation_Fast2_mex -D__USE_MINGW_ANSI_STDIO=1   \"C:/Program Files/MATLAB/R2021b/extern/version/c_mexapi_version.c\" -o build/win64/c_mexapi_version.o",
+    "file": "C:/Program Files/MATLAB/R2021b/extern/version/c_mexapi_version.c",
+    "output": "build/win64/c_mexapi_version.o"
+  }
+]
